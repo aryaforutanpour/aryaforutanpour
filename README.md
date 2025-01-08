@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryaforutanpour
-- 👀 I’m interested in getting better at coding!
-- 🌱 I’m currently learning Python
+- 👀 I’m currently a CS student @ Berkeley
+- 🌱 I am all about innovation
 
 <!---
 aryaforutanpour/aryaforutanpour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
